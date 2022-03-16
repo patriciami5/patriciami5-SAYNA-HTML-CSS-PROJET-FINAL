@@ -1,0 +1,57 @@
+
+header{
+    background-color: #d35649;
+}
+.event{
+    text-shadow: 0.1rem 0.1rem #98a5a5;
+}
+.group{
+    max-width: 8em;
+    max-height: 8em;
+}
+.link a:hover{ 
+    color: #98a5a5;
+}
+.title{
+    color: #d35649;
+}
+.item{
+    color:#509bd7;
+}
+.email_adress{
+
+}
+.footer_dark, .footer_nav{
+    background-color: #1f1f1f;
+}
+.our_email_adress{
+    color:#d35649;
+}
+.more{ 
+    color:#d35649;
+}
+.icon_footer{
+    color:#eee;
+    background-color:#444
+}
+/*index*/
+.button_index{
+    background-color: #d35649;
+}
+.homepage{
+    background: url("D:\sayna exo/SAYNA-HTML-CSS-PROJET-FINAL/Assets/Images/group-1.jpg");
+    max-height: max-content;
+    im
+}
+.box{
+    background-color: white;
+
+}
+
+/*search*/
+.search{
+    background-color: #eee
+}
+.title_search{
+    color: #989898
+}
